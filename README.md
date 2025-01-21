@@ -4,7 +4,7 @@
 - 🌱 Estudando Java Script
 - ⚡ Estou no 2° periodo de Sistemas de Informação na PUC Minas
 - 📫 Contato: geovannaqocassia@gmail.com
-- 📱 Linkedin: <a href="www.linkedin.com/in/geovanna-cassia-1636612a4">Geovanna Cassia</a>
+- 📱 Linkedin: <a href="https://www.linkedin.com/in/geovanna-cassia-1636612a4/">Geovanna Cassia</a>
 <br>
 <div>
   <a href="https://github.com/GeovannaCassia"></a>
