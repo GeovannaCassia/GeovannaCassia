@@ -1,8 +1,9 @@
-## Olá, eu sou a Geovanna! 👋
+## Olá, eu me chamo Geovanna! 👋
 
 - 🔭 Hoje em dia, eu faço estágio na área de infraestrutura e segurança
 - 🌱 Estudando Java Script
 - ⚡ Estou no 2° periodo de Sistemas de Informação na PUC Minas
+- ❤️ Tenho muito interesse na área de desenvolvimento web
 - 📫 Contato: geovannaqocassia@gmail.com
 - 📱 Linkedin: <a href="https://www.linkedin.com/in/geovanna-cassia-1636612a4/">Geovanna Cassia</a>
 <br>
