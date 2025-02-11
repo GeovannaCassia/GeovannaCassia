@@ -9,7 +9,8 @@
 <br>
 <div>
   <a href="https://github.com/GeovannaCassia"></a>
-  <img height="100%" src="https://github-readme-stats.vercel.app/api?username=GeovannaCassia&show_icons=true&theme=tokyonight">
+  <img height="50%" width="40%" src="https://github-readme-stats.vercel.app/api?username=GeovannaCassia&show_icons=true&theme=tokyonight">
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaCassia&layout=compact&theme=tokyonight">
 </div>
 <br>
 <p>Linguagens e tecnologias</p>
