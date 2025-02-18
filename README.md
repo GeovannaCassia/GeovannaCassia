@@ -8,9 +8,10 @@
 - 📱 Linkedin: <a href="https://www.linkedin.com/in/geovanna-cassia-1636612a4/">Geovanna Cassia</a>
 <br>
 <div>
-  <a href="https://github.com/GeovannaCassia"></a>
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=GeovannaCassia&show_icons=true&theme=tokyonight">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaCassia&layout=compact&theme=tokyonight">
+  <a href="https://github.com/GeovannaCassia">
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=GeovannaCassia&show_icons=true&theme=tokyonight"> 
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaCassia&layout=compact&theme=tokyonight">
+  </a>
 </div>
 <br>
 <p>Linguagens e tecnologias</p>
