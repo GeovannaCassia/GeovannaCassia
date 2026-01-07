@@ -2,11 +2,10 @@
 
 ## 🌻 Sobre mim
 - 🚩 Betim - MG
-- 💻 Estágiaria de desenvolvimento frontend
 - 🌱 Estudando Vue JS e Nuxt
-- ⚡ Estou no 2° periodo de Sistemas de Informação na PUC Minas
+- ⚡ Estou no 4° periodo de Sistemas de Informação na PUC Minas
 - ✨ Tenho muito interesse na área de desenvolvimento web
-- ❤️ I love Front-End
+- ❤️ I love Frontend
 
 ## 📬 Contato
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:geovannaqocassia@gmail.com)
@@ -14,28 +13,20 @@
 
 ## 📈 Estatísticas do GitHub
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=GeovannaCassia&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaCassia&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-kohl-ten-28.vercel.app/api?username=GeovannaCassia&show_icons=true&theme=rose_pine&title_color=F762BC&include_all_commits=true&count_private=true" height="180" alt="Geovanna GitHub Stats" />
+    <img src="https://github-readme-stats-kohl-ten-28.vercel.app/api/top-langs/?username=GeovannaCassia&layout=compact&theme=rose_pine&title_color=F762BC" height="180" alt="Top Languages" />
+</p>
+
 
 ## ⚒️ Linguages e tecnologias
-
-<div>
-  <img align="center" alt="Geo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Geo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Geo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Geo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Geo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Geo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Geo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-
-
+<p align="center">
+  <img alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img alt="Nuxt.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
+  <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
