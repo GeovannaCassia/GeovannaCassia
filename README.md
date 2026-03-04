@@ -2,6 +2,7 @@
 
 ## 🌻 Sobre mim
 - 🚩 Betim - MG
+- 💻 Estágiaria de Desenvolvimento de Software
 - 🌱 Estudando Vue JS e Nuxt
 - ⚡ Estou no 4° periodo de Sistemas de Informação na PUC Minas
 - ✨ Tenho muito interesse na área de desenvolvimento web
