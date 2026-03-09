@@ -3,7 +3,7 @@
 ## 🌻 Sobre mim
 - 🚩 Betim - MG
 - 💻 Estágiaria de Desenvolvimento de Software
-- 🌱 Estudando Vue JS e Nuxt
+- 🌱 Estudando c#, .NET e React
 - ⚡ Estou no 4° periodo de Sistemas de Informação na PUC Minas
 - ✨ Tenho muito interesse na área de desenvolvimento web
 - ❤️ I love Frontend
