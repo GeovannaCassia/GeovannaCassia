@@ -6,8 +6,7 @@
 - 🌱 Estudando C#, .NET e React
 - ⚡ Estou no 4° periodo de Sistemas de Informação na PUC Minas
 - ✨ Tenho muito interesse na área de desenvolvimento web
-- ❤️ I love Frontend
-
+- 
 ## 📬 Contato
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:geovannaqocassia@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovanna-cassia-1636612a4/)
@@ -30,4 +29,7 @@
   <img alt="Nuxt.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
   <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </p>
