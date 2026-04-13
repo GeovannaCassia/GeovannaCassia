@@ -6,7 +6,6 @@
 - 🌱 Estudando C#, .NET e React
 - ⚡ Estou no 4° periodo de Sistemas de Informação na PUC Minas
 - ✨ Tenho muito interesse na área de desenvolvimento web
-- 
 ## 📬 Contato
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:geovannaqocassia@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovanna-cassia-1636612a4/)
